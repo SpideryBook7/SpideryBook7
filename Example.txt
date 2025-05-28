@@ -1,0 +1,36 @@
+# Este es el titulo
+El texto
+## Un subtitulo
+### Titulo de nivel 3
+##### Titulo de nivel 6
+
+# Listas
+
+- item 1
+- item 2
+    * item 3
+    - item 4
+
+1. Primera
+2. Segunda
+    1. a
+
+Este es *otro* parrafo para ir **probando**
+
+> Este texto sale como una cita
+
+`npm run dev`
+
+```bash
+import math
+
+math.random()
+```
+
+| Nombre | Apellidos
+| -- | --
+| Cris | Huerta
+
+# Links
+
+[mensaje](https://google.com)
