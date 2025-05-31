@@ -1,70 +1,92 @@
-<br clear="both">
+<!-- Banner estilo Gears of War -->
+<p align="center">
+  <img src="./image.png" alt="Gears Banner" width="100%" />
+</p>
 
-<h2 align="left">🕸️ Hi 🕸️!
- My name is Cristian Giovanni and 🕸️ I'm currently working as Software Engineer🕸️💻</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpideryBook7&hide_title=false&show_icons=false&include_all_commits=true&count_private=true&theme=dracula"  alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpideryBook7&layout=compact&theme=dracula" height="195" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRjeTRyb3VtdGhjZDgzbGg5NmZ4amU2OGdvOXI0c2sydGkzajEyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4KzpjLvJjJknJ5Xuak/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/SpideryBook7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/SpideryBook7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-  <a href="https://twitter.com/SpideryBook7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-<br clear="both">
-<img src="https://raw.githubusercontent.com/SpideryBook7/SpideryBook7/output/snake.svg" alt="Snake animation" />
-
-###
-
-**Languages and Tools:**
+<h1 align="center">🛡️ SpideryBook7 | Command Center Online</h1>
 
 <p align="center">
-
-  <div align="center">
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-  </div>
-  </p>
+  <i>"In this code war... silence is fatal. I code. I conquer. I evolve."</i><br>
+  <strong>Full-Stack Developer ⚙️ | Creative Strategist 🧠 | Gamer by Blood 🎮</strong>
+</p>
 
 ---
+
+## 🧠 Tactical Intel
+
+Welcome, soldier. I'm **SpideryBook7**, a developer forged in digital trenches.
+
+> 💥 Fueled by the spirit of Gears of War.  
+> 🧩 I design systems that hit hard, load fast, and feel legendary.  
+> ⚙️ I write code like battle plans: clean, structured, and efficient.  
+> 🧠 Always adapting. Always improving. Always hunting the next upgrade.
+
+---
+
+## 🧰 Tech Arsenal
+
+Tools I deploy with precision:
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+
+</div>
+
+---
+
+## 🎯 Battle Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpideryBook7&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+## 🎖️ Missions & Deployments
+
+🧱 **Warbase Manager**  
+> 💼 Tactical warehouse system with precision UI  
+> `MongoDB | React | TailwindCSS | Node.js`
+
+🌌 **Historias Eternas**  
+> 📚 Heartfelt storytelling platform  
+> `React Native | Firebase | Express.js`
+
+🚗 **CSR Reborn** *(In progress)*  
+> 🏁 Mobile racing project inspired by CSR legacy  
+> `Unity | C# | Mobile`
+
+---
+
+## ⚔️ Combat Ready Traits
+
+- 🧠 Creative strategist with pixel-perfect vision  
+- 🧪 Explorer of unknown APIs and frameworks  
+- 🔧 Tailor of efficient UI/UX workflows  
+- 👾 Hardcore gamer turned developer-architect
+
+---
+
+## 📡 Connect With Command
+
+<p align="center">
+  <a href="mailto:spiderybook7@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Battle%20Ready-red?style=for-the-badge&logo=gears-of-war" />
+  <img src="https://img.shields.io/badge/Alignment-Dark%20Mode%20Loyalist-black?style=for-the-badge" />
+</p>
+
+<p align="center"><i>“Victory is not given. It's coded.”</i></p>
