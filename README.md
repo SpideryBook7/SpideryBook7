@@ -41,11 +41,6 @@ Tools I deploy with precision:
 
 ---
 
-## 🎯 Battle Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpideryBook7&layout=compact&theme=radical" width="45%" />
-</p>
 
 ---
 
