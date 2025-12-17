@@ -1,34 +1,63 @@
 <!-- Banner estilo Gears of War -->
 <p align="center">
-  <img src="./image.png" alt="Gears Banner" width="100%" />
+  <img src="./gears-p.png" alt="Gears Banner" width="100%" />
 </p>
-
-<h1 align="center">🛡️ SpideryBook7 | Command Center Online</h1>
 
 <p align="center">
-  <i>"In this code war... silence is fatal. I code. I conquer. I evolve."</i><br>
-  <strong>Full-Stack Developer ⚙️ | Creative Strategist 🧠 | Gamer by Blood 🎮</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=System+Active...+SpideryBook7;Role:+Software+Engineer;Stack:+React+|+Node+|+Python;Mission:+Build+Scalable+Architecture" alt="Typing SVG" />
+  </a>
 </p>
 
+<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=100000&color=E11D48&center=true&vCenter=true&width=600&lines=CRISTIAN HUERTA" alt="Typing SVG" />
+  </a>
+</p>
+  <h3>Software Engineer | Full Stack Architect</h3>
+</div>
+
+<div align="center">
+ <p>
+    <a href="https://portfolio-cristian-huerta.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-VIEW-black?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/cristian03">
+      <img src="https://img.shields.io/badge/LinkedIn-CONNECT-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:cristian.huerta.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-SEND-black?style=for-the-badge&logo=apple&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Class-Software%20Engineer-000000?style=for-the-badge&logo=prometheus&logoColor=E11D48" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=for-the-badge&logo=check&logoColor=white" />
+</p>
+
+<p align="center">
+  <p>
+    Building scalable, high-performance digital ecosystems.
+  </p>
+</p>
+
+### PROFESSIONAL SYNOPSIS
+
+I am a Software Engineer focused on the intersection of **System Architecture** and **User Experience**. My work prioritizes clean code, scalability, and performance optimization. Currently specialized in **TypeScript (React/Next.js)** and **Python** ecosystems for enterprise solutions.
+
 ---
 
-## 🧠 Tactical Intel
-
-Welcome, soldier. I'm **SpideryBook7**, a developer forged in digital trenches.
-
-> 💥 Fueled by the spirit of Gears of War.  
-> 🧩 I design systems that hit hard, load fast, and feel legendary.  
-> ⚙️ I write code like battle plans: clean, structured, and efficient.  
-> 🧠 Always adapting. Always improving. Always hunting the next upgrade.
-
 ---
 
-## 🧰 Tech Arsenal
+### ARCHITECTURAL STACK
 
 Tools I deploy with precision:
 
 <div align="center">
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
@@ -46,21 +75,21 @@ Tools I deploy with precision:
 
 ## 🎖️ Missions & Deployments
 
-🧱 **Warbase Manager**  
-> 💼 Tactical warehouse system with precision UI  
-> `MongoDB | React | TailwindCSS | Node.js`
+**SMYT Platform (Government System)**  
+> 💼 Comprehensive Road Safety Education and License Management Platform. Centralizes resources, automates driver assessments, and manages procedures.  
+> `React | Python | Postgres | Docker`
 
-🌌 **Historias Eternas**  
-> 📚 Heartfelt storytelling platform  
-> `React Native | Firebase | Express.js`
+**POS System (Desktop & Web)**  
+> 🛒 Robust Point-of-Sale solution optimized for low-resource hardware. Hybrid architecture with Offline-First capability and Live Web Demo mode.  
+> `Electron | React | Node.js`
 
-🚗 **CSR Reborn** *(In progress)*  
-> 🏁 Mobile racing project inspired by CSR legacy  
-> `Unity | C# | Mobile`
+**Dog Health (IoT & Mobile)**  
+> 📡 Integrated hardware and software for real-time pet health monitoring. Automated emergency alerts and bio-tracking.  
+> `Flutter | Firebase | IoT`
 
 ---
 
-## ⚔️ Combat Ready Traits
+## Combat Ready Traits
 
 - 🧠 Creative strategist with pixel-perfect vision  
 - 🧪 Explorer of unknown APIs and frameworks  
@@ -69,12 +98,12 @@ Tools I deploy with precision:
 
 ---
 
-## 📡 Connect With Command
+## 📡 Contact
 
 <p align="center">
-  <a href="mailto:spiderybook7@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" /></a>
+  <a href="mailto:cristian.huerta.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/cristian03"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://t.me/Huerta_Cristian"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 ---
