@@ -1,8 +1,3 @@
-<!-- Banner estilo Gears of War -->
-<p align="center">
-  <img src="./gears-p.png" alt="Gears Banner" width="100%" />
-</p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=System+Active...+SpideryBook7;Role:+Software+Engineer;Stack:+React+|+Node+|+Python;Mission:+Build+Scalable+Architecture" alt="Typing SVG" />
@@ -11,10 +6,8 @@
 
 <div align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=100000&color=E11D48&center=true&vCenter=true&width=600&lines=CRISTIAN HUERTA" alt="Typing SVG" />
-  </a>
 </p>
+  <h1 style="color: #878283ff">CRISTIAN HUERTA</h1>
   <h3>Software Engineer | Full Stack Architect</h3>
 </div>
 
